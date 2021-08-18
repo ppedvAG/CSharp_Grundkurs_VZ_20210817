@@ -3,59 +3,59 @@
 
 ## M000 | VORSTELLUNG
 
-- [ ] Begrüßung
-- [ ] Visual Studio [Link](https://visualstudio.microsoft.com/de/)
-- [ ] Visual Studio Einrichtung
-- [ ] VS-Shortcuts [Link](VS-SHORTCUTS.md)
+- [x] Begrüßung
+- [x] Visual Studio [Link](https://visualstudio.microsoft.com/de/)
+- [x] Visual Studio Einrichtung
+- [x] VS-Shortcuts [Link](VS-SHORTCUTS.md)
 
 
 ## M001 | .NET GRUNDLAGEN
-- [ ] C# [Link](https://docs.microsoft.com/de-de/dotnet/csharp/)
-- [ ] .NET 4.8 [Link](https://docs.microsoft.com/de-de/dotnet/api/?view=netframework-4.8)
-- [ ] Projekte und Projektmappen
-- [ ] HelloWorld.cs <!--[Link](Uebungen/Modul001_01_HelloWorld/Program.cs)-->
-- [ ] DemoConsole.cs <!--[Link](Uebungen/Modul001_02_DemoConsole/Program.cs)-->
-- [ ] Startprojekt festlegen
-- [ ] Sprachgrundlagen
+- [x] C# [Link](https://docs.microsoft.com/de-de/dotnet/csharp/)
+- [x] .NET 4.8 [Link](https://docs.microsoft.com/de-de/dotnet/api/?view=netframework-4.8)
+- [x] Projekte und Projektmappen
+- [x] HelloWorld.cs [Link](Uebungen/Modul001_01_HelloWorld/Program.cs)
+- [x] DemoConsole.cs [Link](Uebungen/Modul001_02_DemoConsole/Program.cs)
+- [x] Startprojekt festlegen
+- [x] Sprachgrundlagen
 
 
 ## M002 | DATENTYPEN, KONVERTIERUNGEN und OPERATOREN
-- [ ] Datentypen <!--[Link](Uebungen/Modul002_01_Datentypen/Program.cs)-->
-- [ ] Parsing & Casting <!--[Link](Uebungen/Modul002_02_ParsingCasting/Program.cs)-->
-- [ ] Operatoren <!--[Link](Uebungen/Modul002_03_Operatoren/Program.cs)-->
-- [ ] Fragen <!--[Link](Uebungen/Modul002_Fragen/Program.cs)-->
+- [x] Datentypen [Link](Uebungen/Modul002_01_Datentypen/Program.cs)
+- [x] Parsing & Casting [Link](Uebungen/Modul002_02_ParsingCasting/Program.cs)
+- [x] Operatoren [Link](Uebungen/Modul002_03_Operatoren/Program.cs)
+- [x] Fragen [Link](Uebungen/Modul002_Fragen/Program.cs)
  
 
 ## M003 | KONTROLLSTRUKTUREN und BOOLESCHE LOGIK
-- [ ] logische Operatoren <!--[Link](Uebungen/Modul003_01_BoolescheLogik/Program.cs)-->
-- [ ] if-Abfrage <!--[Link](Uebungen/Modul003_02_Kontrollstrukturen/Program.cs)-->
-- [ ] switch-Anweisung <!--[Link](Uebungen/Modul003_02_Kontrollstrukturen/Program.cs)-->
-- [ ] Fragen <!--[Link](Uebungen/Modul003_Fragen/Program.cs)-->
+- [x] logische Operatoren [Link](Uebungen/Modul003_01_BoolescheLogik/Program.cs)
+- [x] if-Abfrage [Link](Uebungen/Modul003_02_Kontrollstrukturen/Program.cs)
+- [x] switch-Anweisung [Link](Uebungen/Modul003_02_Kontrollstrukturen/Program.cs)
+- [x] Fragen [Link](Uebungen/Modul003_Fragen/Program.cs)
 
 ## M004 | ARRAYS, SCHLEIFEN und ENUMS
-- [ ] Arrays <!--[Link](Uebungen/Modul004_01_Arrays/Program.cs)-->
-- [ ] Enums <!--[Link](Uebungen/Modul004_02_Enumeratoren/Program.cs)-->
-- [ ] for-Schleife <!--[Link](Uebungen/Modul004_03_Schleifen/Program.cs)-->
-- [ ] foreach-Schleife <!--[Link](Uebungen/Modul004_03_Schleifen/Program.cs)-->
-- [ ] while-Schleifen <!--[Link](Uebungen/Modul004_03_Schleifen/Program.cs)-->
-- [ ] do-while-Schleife <!--[Link](Uebungen/Modul004_03_Schleifen/Program.cs)-->
-- [ ] Fragen <!--[Link](Uebungen/Modul004_Fragen/Program.cs)-->
+- [x] Arrays [Link](Uebungen/Modul004_01_Arrays/Program.cs)
+- [x] Enums [Link](Uebungen/Modul004_02_Enumeratoren/Program.cs)
+- [x] for-Schleife [Link](Uebungen/Modul004_03_Schleifen/Program.cs)
+- [x] foreach-Schleife [Link](Uebungen/Modul004_03_Schleifen/Program.cs)
+- [x] while-Schleifen [Link](Uebungen/Modul004_03_Schleifen/Program.cs)
+- [x] do-while-Schleife [Link](Uebungen/Modul004_03_Schleifen/Program.cs)
+- [x] Fragen [Link](Uebungen/Modul004_Fragen/Program.cs)
 
 
 ## M005 | STATISCHE MEMBER
-- [ ] Funktionen <!--[Link](Uebungen/Modul005_01_statischeMember/Program.cs)--> 
-- [ ] Eigenschaften <!--[Link](Uebungen/Modul005_01_statischeMember/Program.cs)--> 
-- [ ] Fragen <!--[Link](Uebungen/Modul005_Fragen/Program.cs)--> 
+- [x] Funktionen [Link](Uebungen/Modul005_01_statischeMember/Program.cs) 
+- [x] Eigenschaften [Link](Uebungen/Modul005_01_statischeMember/Program.cs) 
+- [x] Fragen [Link](Uebungen/Modul005_Fragen/Program.cs) 
 
 
 ## M006 | OOP - NAMESPACES, KLASSEN, FELDER und KAPSELUNGEN
-- [ ] Namespaces <!--[Link](Uebungen/Modul006_01_NamespaceKlassen/Program.cs)--> 
-- [ ] Klassen <!--[Link](Uebungen/Modul006_01_NamespaceKlassen/Program.cs)--> 
-- [ ] Felder <!--[Link](Uebungen/Modul006_02_FelderEigenschaften/Felder.cs)--> 
-- [ ] Eigenschaften <!--[Link](Uebungen/Modul006_02_FelderEigenschaften/Eigenschaften.cs)--> 
-- [ ] Kapselungen <!--[Link](Uebungen/Modul006_02_FelderEigenschaften/Eigenschaften.cs)--> 
-- [ ] partielle Klassen und Methoden <!--[Link](Uebungen/Modul006_03_partielleKlassenMethoden/Program.cs)--> 
-- [ ] Fragen <!--[Link](Uebungen/Modul006_Fragen) -->
+- [x] Namespaces [Link](Uebungen/Modul006_01_NamespaceKlassen/Program.cs) 
+- [x] Klassen [Link](Uebungen/Modul006_01_NamespaceKlassen/Program.cs) 
+- [x] Felder [Link](Uebungen/Modul006_02_FelderEigenschaften/Felder.cs) 
+- [x] Eigenschaften [Link](Uebungen/Modul006_02_FelderEigenschaften/Eigenschaften.cs) 
+- [x] Kapselungen [Link](Uebungen/Modul006_02_FelderEigenschaften/Eigenschaften.cs) 
+- [x] partielle Klassen und Methoden [Link](Uebungen/Modul006_03_partielleKlassenMethoden/Program.cs) 
+- [x] Fragen [Link](Uebungen/Modul006_Fragen) 
 
 
 ## M007 | OOP - OBJEKTE, METHODEN und PARAMETER
