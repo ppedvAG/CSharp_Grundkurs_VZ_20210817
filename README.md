@@ -94,20 +94,20 @@
 
 
 ## M011 | INTERFACES
-- [ ] Interface <!--[Link](Uebungen/Modul011_01_Interface/Program.cs)-->  
-- [ ] Interface ab C# 8 <!--[Link](Uebungen/Modul011_02_InterfaceCSharp8/Program.cs)-->  
-- [ ] Fragen <!--[Link](Uebungen/Modul011_Fragen)  -->
-- [ ] Fragen Part 2 <!--[Link](Uebungen/Modul011_Fragen_Part2)  -->
+- [x] Interface [Link](Uebungen/Modul011_01_Interface/Program.cs)  
+- [x] Interface ab C# 8 [Link](Uebungen/Modul011_02_InterfaceCSharp8/Program.cs)  
+- [x] Fragen [Link](Uebungen/Modul011_Fragen)  
+- [x] Fragen Part 2 [Link](Uebungen/Modul011_Fragen_Part2)  
 
 
 ## M012 | GENERISCHE LISTEN, DICTIONARY, STACK und QUEUE
-- [ ] Listen <!--[Link](Uebungen/Modul012_01_Listen/List.cs)--> 
-- [ ] Dictionary <!--[Link](Uebungen/Modul012_01_Listen/Dictionary.cs)--> 
-- [ ] Stack <!--[Link](Uebungen/Modul012_01_Listen/Stack.cs)--> 
-- [ ] Queue <!--[Link](Uebungen/Modul012_01_Listen/Queue.cs)--> 
-- [ ] Hashtable <!--[Link](Uebungen/Modul012_01_Listen/Hashtable.cs)--> 
-- [ ] Tuple <!--[Link](Uebungen/Modul012_01_Listen/Tuple.cs)--> 
-- [ ] Fragen <!--[Link](Uebungen/Modul012_Fragen) -->
+- [x] Listen [Link](Uebungen/Modul012_01_Listen/List.cs) 
+- [x] Dictionary [Link](Uebungen/Modul012_01_Listen/Dictionary.cs) 
+- [x] Stack [Link](Uebungen/Modul012_01_Listen/Stack.cs) 
+- [x] Queue [Link](Uebungen/Modul012_01_Listen/Queue.cs) 
+- [x] Hashtable [Link](Uebungen/Modul012_01_Listen/Hashtable.cs) 
+- [x] Tuple [Link](Uebungen/Modul012_01_Listen/Tuple.cs) 
+- [x] Fragen [Link](Uebungen/Modul012_Fragen) 
 
 
 ## M013 | DELEGATES und EVENTS (optional)
